@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="kuber-bg" x1="10" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D69339" />
+      <stop offset="1" stop-color="#BA7517" />
+    </linearGradient>
+    <linearGradient id="kuber-accent" x1="18" y1="18" x2="46" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4D8" />
+      <stop offset="1" stop-color="#FFE2A6" />
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="52" height="52" rx="16" fill="url(#kuber-bg)" />
+  <path
+    d="M20 16.5C20 15.6716 20.6716 15 21.5 15H25.5C26.3284 15 27 15.6716 27 16.5V29.3898L38.3367 16.6317C38.6214 16.3113 39.0294 16.1279 39.458 16.1279H44.6707C45.9694 16.1279 46.6538 17.6655 45.7865 18.6322L35.7118 29.8599L46.1125 44.7659C46.8097 45.7651 46.095 47.1377 44.8766 47.1377H39.7775C39.2811 47.1377 38.8164 46.8919 38.5365 46.481L30.4108 34.549L27 38.3007V45.6377C27 46.4661 26.3284 47.1377 25.5 47.1377H21.5C20.6716 47.1377 20 46.4661 20 45.6377V16.5Z"
+    fill="url(#kuber-accent)"
+  />
+  <circle cx="48" cy="18" r="4" fill="#FFF8E8" fill-opacity="0.72" />
+</svg>
