@@ -1,4 +1,4 @@
-💰 Kuber()
+💰 Kuber(LIVE AT : https://manishshaw5555.github.io/Kuber/)
 
 Kuber is a lightweight personal finance dashboard built with React and Vite. It provides a clean, single-page experience for tracking transactions, analyzing monthly performance, and exploring spending patterns — all without requiring a backend.
 
